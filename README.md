@@ -12,6 +12,8 @@
 - Database: MySQL, MongoDB
 - Frameworks: ReactJs, Tailwind, Express
 - Tools: Git, VS Code
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 
 ## 📫 Let's Connect
 Feel free to reach out or check out my projects here on GitHub. I'm always open to learning and collaboration!
