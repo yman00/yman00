@@ -8,7 +8,7 @@
 - Work with technologies like JavaScript, Python, Flutter, MySQL, MongoDB, and more
 
 ## 🚀 Skills & Tools
-- Programming: JavaScript, HTML, CSS
+- Programming: JavaScript, HTML, CSS, Python, Flutter, Dart
 - Database: MySQL, MongoDB
 - Frameworks: ReactJs, Tailwind, Express
 - Tools: Git, VS Code
